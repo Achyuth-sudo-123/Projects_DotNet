@@ -1,0 +1,73 @@
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\obj\Debug\web Form1 Bank Account details.csproj.AssemblyReference.cache
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\obj\Debug\web Form1 Bank Account details.csproj.CoreCompileInputs.cache
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\web Form1 Bank Account details.dll.config
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\web Form1 Bank Account details.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\web Form1 Bank Account details.pdb
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csc.exe
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csc.exe.config
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csc.rsp
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csi.exe
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csi.exe.config
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\csi.rsp
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.Managed.Core.targets
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.AppContext.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Collections.Immutable.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Console.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Globalization.Calendars.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.IO.Compression.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.IO.FileSystem.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Net.Http.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Net.Sockets.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Reflection.Metadata.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.ValueTuple.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Xml.XmlDocument.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Xml.XPath.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\vbc.exe
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\vbc.exe.config
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\vbc.rsp
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\VBCSCompiler.exe
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\roslyn\VBCSCompiler.exe.config
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Antlr3.Runtime.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\AspNet.ScriptManager.jQuery.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.ScriptManager.WebForms.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.Web.Infrastructure.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Newtonsoft.Json.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\System.Web.Optimization.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\WebGrease.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\System.Web.Optimization.xml
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Newtonsoft.Json.xml
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Antlr3.Runtime.pdb
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\obj\Debug\web Form1 Bank Account details.csproj.CopyComplete
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\obj\Debug\web Form1 Bank Account details.dll
+E:\.NET projects\web Form1 Bank Account details\web Form1 Bank Account details\obj\Debug\web Form1 Bank Account details.pdb
